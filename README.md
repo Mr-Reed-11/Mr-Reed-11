@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://nortixcode.com.br"><img src="https://img.shields.io/badge/Nortix%20Code-0f172a?style=for-the-badge&logo=rocket&logoColor=06b6d4" alt="Nortix Code" /></a>
-  <a href="https://portfolio.nortixcode.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1e3a8a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://portfolio.nortixcode.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1e3a8a?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfólio" /></a>
   <a href="https://www.linkedin.com/in/vitor-ornelas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://komarev.com/ghpvc/?username=Mr-Reed-11&style=for-the-badge&color=06b6d4&label=VISITAS" alt="Visitas" />
 </p>
