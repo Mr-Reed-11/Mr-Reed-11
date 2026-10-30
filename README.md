@@ -82,8 +82,6 @@ const vitor = {
 | 📄 **[SelectTextPDF](https://github.com/Mr-Reed-11/SelectTextPDF)** | Upload de PDF, seleção de áreas por retângulo e extração automática de texto | TypeScript |
 | 🔴 **[pokedex-nuxt](https://github.com/Mr-Reed-11/pokedex-nuxt)** | Pokédex construída com Nuxt | Vue · Nuxt |
 | 🌐 **[portfolio](https://github.com/Mr-Reed-11/portfolio)** | Meu portfólio pessoal | TypeScript |
-| 🎓 **[Site-ETIVA](https://github.com/Mr-Reed-11/Site-ETIVA)** | Site institucional da 6ª edição do ETIVA em Paraíso do Tocantins | HTML |
-| 🗺️ **[entre-mundos](https://github.com/Mr-Reed-11/entre-mundos)** | Jogo em desenvolvimento na Godot | GDScript |
 
 > Mais detalhes no meu **[portfólio](https://portfolio.nortixcode.com.br)**.
 
