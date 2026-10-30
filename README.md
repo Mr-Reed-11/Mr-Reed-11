@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://nortixcode.com.br"><img src="https://img.shields.io/badge/Nortix%20Code-0f172a?style=for-the-badge&logo=googlechrome&logoColor=06b6d4" alt="Nortix Code" /></a>
-  <a href="https://portfolio.nortixcode.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1e3a8a?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://nortixcode.com.br"><img src="https://img.shields.io/badge/Nortix%20Code-0f172a?style=for-the-badge&logo=rocket&logoColor=06b6d4" alt="Nortix Code" /></a>
+  <a href="https://portfolio.nortixcode.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1e3a8a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Portfólio" /></a>
   <a href="https://www.linkedin.com/in/vitor-ornelas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://komarev.com/ghpvc/?username=Mr-Reed-11&style=for-the-badge&color=06b6d4&label=VISITAS" alt="Visitas" />
 </p>
@@ -44,13 +44,20 @@ const vitor = {
 
 ## 🛠️ Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,ts,python&perline=6" alt="Backend" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,tailwind,js,html&perline=6" alt="Frontend" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,gcp,docker,linux,git,godot&perline=6" alt="Infra e outros" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>Back-end</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,ts,python&perline=6" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Front-end</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,tailwind,js,html&perline=6" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Infra & Tools</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres,gcp,docker,linux,git,godot&perline=6" alt="Infra" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -72,7 +79,7 @@ const vitor = {
 | Repositório | Descrição | Stack |
 |:--|:--|:--|
 | 🎵 **[Vynil](https://github.com/Mr-Reed-11/Vynil)** | Servidor pessoal de música: baixa áudio do YouTube em MP3 e serve para um player Flutter | NestJS · Flutter |
-| 📄 **[SelectTextPDF](https://github.com/Mr-Reed-11/SelectTextPDF)** | Upload de PDF, seleção de áreas por retângulo e extração automática de texto, 100% no frontend | TypeScript |
+| 📄 **[SelectTextPDF](https://github.com/Mr-Reed-11/SelectTextPDF)** | Upload de PDF, seleção de áreas por retângulo e extração automática de texto | TypeScript |
 | 🔴 **[pokedex-nuxt](https://github.com/Mr-Reed-11/pokedex-nuxt)** | Pokédex construída com Nuxt | Vue · Nuxt |
 | 🌐 **[portfolio](https://github.com/Mr-Reed-11/portfolio)** | Meu portfólio pessoal | TypeScript |
 | 🎓 **[Site-ETIVA](https://github.com/Mr-Reed-11/Site-ETIVA)** | Site institucional da 6ª edição do ETIVA em Paraíso do Tocantins | HTML |
@@ -96,6 +103,16 @@ const vitor = {
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Reed-11&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
+
+---
+
+## 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mr-Reed-11/Mr-Reed-11/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mr-Reed-11/Mr-Reed-11/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Mr-Reed-11/Mr-Reed-11/output/github-snake.svg" />
+</picture>
 
 ---
 
